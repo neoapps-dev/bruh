@@ -15,7 +15,6 @@ use std::{
     path::PathBuf,
 };
 use std::fs::File;
-use std::io::Result;
 
 use skia_safe::{
     AlphaType, Color4f, ColorType, EncodedImageFormat, ImageInfo, Paint, Rect, Surface,
